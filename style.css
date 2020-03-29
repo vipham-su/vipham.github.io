@@ -1,0 +1,230 @@
+body{
+    background-color: #121212;
+}
+
+.home{
+    display: flex;
+    padding: 90px 0px 0px 70px;
+}
+
+.gothicfont{
+    font-family: letter-gothic-std, monospace;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    color: #f0f0f0;
+}
+.introparagraph{
+    width: 300px;
+    padding: 40px 0px 0px 80px;
+    font-size: 15px;
+}
+.navlinks{
+    padding-top: 30px;
+}
+.navlinks a{
+    display: flex;
+    flex-direction: column;
+    padding-top: 15px;
+    color: #f0f0f0;
+}
+.headerlinks{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px 0px 40px;
+}
+
+.headerlinks a{
+    color: #f0f0f0;
+}
+
+/*start of interests page */
+
+.garamondfont{
+    font-family: adobe-garamond-pro, serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #f0f0f0;
+}
+.photo{
+    height: 660px;
+    padding-top: 90px;
+
+}
+
+.photosection{
+    text-align: center;
+    padding: 0px 150px 70px 150px;
+}
+
+
+#pasta{
+    width: 300px;
+    padding-right: 60px;
+}
+
+.food{
+    display: flex;
+    padding-left: 250px;
+    text-align: center;
+    height: 500px;
+}
+
+.paragraphtext{
+    width: 420px;
+
+}
+
+
+#radio{
+    width: 440px;
+    padding-left: 60px;
+}
+
+.music{
+    display: flex;
+    padding-left: 180px;
+    text-align: center;
+    height: 400px;
+}
+
+#laying{
+    width: 440px;
+    padding-right: 60px;
+}
+
+.resumesection{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+#resume{
+    width: 700px;
+}
+
+/*start of interests page */
+
+.most{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 1030px;
+    border-bottom: 1px solid #f0f0f0;
+
+}
+
+.mostsection{
+    padding: 70px 130px 50px 130px;
+}
+
+.mostwebsite{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.mostideation{
+    display: flex;
+    flex-direction: row;
+    padding: 0px 130px 70px 160px;
+}
+
+.mostwireframeparagraph{
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+.mostwebsitelinks{
+    display: flex;
+    flex-direction: row;
+    padding-left: 140px;
+}
+
+.mostwebsitelinks a{
+    color: #f0f0f0;
+}
+
+.originalmostwebsite{
+    padding-right: 35px;
+}
+
+.moose{
+    display: flex;
+    flex-direction: row;
+    padding: 50px 140px 0px 200px;
+    height: 400px;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.moosesection{
+    text-align: center;
+}
+
+.moosewebsite{
+    text-align: center;
+    padding-left: 50px;
+}
+.moosewebsite a {
+    color: #f0f0f0;
+}
+
+.python{
+    display: flex;
+    padding: 50px 80px 0px 100px;
+    height: 500px;
+    border-bottom: 1px solid #f0f0f0;
+
+}
+
+.pythonsection{
+    padding-left: 70px;
+    text-align: center;
+}
+
+.cleaneats{
+    height: 1120px;
+    border-bottom: 1px solid #f0f0f0;
+}
+.cleaneatsdescription{
+    text-align: center;
+    padding: 0px 270px 60px 280px;
+    border-bottom: 1px solid #f0f0f0;
+
+}
+
+.cleaneatsideation{
+    text-align: center;
+    padding: 60px 270px 60px 280px;
+}
+
+.cleaneatspic{
+    display: flex;
+    flex-direction: row;
+    padding-left: 130px;
+}
+
+#cleaneats{
+    padding-right: 20px;
+}
+
+.getin{
+    padding-top: 30px;
+    text-align: center;
+    height: 600px;
+}
+
+.getinsection{
+    display: flex;
+    flex-direction: row;
+    padding-left: 120px;
+    padding-top: 40px;
+}
+
+.getinparagraph{
+    padding: 0px 110px 0px 30px;
+    text-align: center;
+}
+
+#myBtn{
+    color: #f0f0f0;
+}
